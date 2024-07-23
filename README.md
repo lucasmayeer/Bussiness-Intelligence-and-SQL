@@ -1,2 +1,0 @@
-# Bussiness Intelligence and SQL
- 
